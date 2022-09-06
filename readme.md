@@ -41,6 +41,9 @@ python shepherd.py fe.py be.py
 # build and run locally with docker-compose
 docker-compose up --build
 
+# you can access the FE under http://localhost:8080/
+# or FE docs under http://localhost:8080/docs 
+
 # to stop, simply CTRL+C:
 ```
 
